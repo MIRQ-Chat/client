@@ -1,0 +1,41 @@
+{
+  "latest_version": "1.6.2.1",
+  "release_date": "2026-02-18T22:50:50.619190",
+  "generated_at": "2026-02-18T22:50:50.619193",
+  "changelog": "Client Update available with new features and bug fixes.",
+  "download_urls": {
+    "installer": "https://updates.mirq.chat/mirq/win/install/1.6.2.1/MIRQ-Setup-1.6.2.1.exe",
+    "client_package": "https://updates.mirq.chat/mirq/win/install/1.6.2.1/MIRQ-Client-1.6.2.1.7z",
+    "update_package": "https://updates.mirq.chat/mirq/win/updates/1.6.2.1/1.6.2.1content.7z",
+    "version_info": "https://updates.mirq.chat/mirq/win/updates/1.6.2.1/version.json",
+    "update_manifest": "https://updates.mirq.chat/mirq/win/updates/1.6.2.1/Updates.xml"
+  },
+  "system_requirements": {
+    "os": "Windows 10/11",
+    "architecture": "x64",
+    "memory": "4 GB RAM minimum",
+    "disk_space": "200 MB available space",
+    "dependencies": "Included (Qt6, Visual C++ Redistributable)"
+  },
+  "update_instructions": {
+    "new_installation": "Download and run the installer from the installer URL",
+    "existing_installation": "Use MIRQUpdater or download the update package",
+    "manual_update": "Download client package and extract to installation directory"
+  },
+  "version_history": {
+    "previous_versions": [
+      "0.7.0",
+      "0.6.0",
+      "0.5.0"
+    ],
+    "breaking_changes": false,
+    "migration_required": false
+  },
+  "metadata": {
+    "build_date": "2026-02-18T22:50:50.619198",
+    "compiler_version": "Visual Studio 2022",
+    "qt_version": "Qt6",
+    "architecture": "x64",
+    "installer_type": "7-Zip SFX"
+  }
+}
