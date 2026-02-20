@@ -27,9 +27,10 @@ Additional metadata is published through `latest.json`, `version.json`, and uplo
 ### Windows
 
 - Latest metadata: [`Windows/latest.json`](Windows/latest.json)
-- Current folder (v`1.6.2.1`): [`Windows/1.6.2.1/`](Windows/1.6.2.1/)
-- Installer: [`Windows/1.6.2.1/MIRQ-Setup-1.6.2.1.exe`](Windows/1.6.2.1/MIRQ-Setup-1.6.2.1.exe)
-- Client package: [`Windows/1.6.2.1/MIRQ-Client-1.6.2.1.7z`](Windows/1.6.2.1/MIRQ-Client-1.6.2.1.7z)
+- First-time installer (recommended): [`Windows/MIRQ.Chat.msi`](Windows/MIRQ.Chat.msi)
+- Current folder (v`1.6.2.2`): [`Windows/1.6.2.2/`](Windows/1.6.2.2/)
+- Setup extractor: [`Windows/1.6.2.2/MIRQ-Setup-1.6.2.2.exe`](Windows/1.6.2.2/MIRQ-Setup-1.6.2.2.exe)
+- Client package: [`Windows/1.6.2.2/MIRQ-Client-1.6.2.2.7z`](Windows/1.6.2.2/MIRQ-Client-1.6.2.2.7z)
 
 ### Linux
 
@@ -60,6 +61,12 @@ This is a project built by a small group of patriot developers, and we are activ
 - Verify package integrity before production deployment.
 - Linux releases may include checksum files such as `SHA256SUMS`.
 - Use platform `latest.json` files to track current release pointers.
+
+### Windows Installation Behavior
+
+- End users should use [`Windows/MIRQ.Chat.msi`](Windows/MIRQ.Chat.msi) for first-time installation.
+- [`MIRQ-Setup-*.exe`](Windows/1.6.2.2/MIRQ-Setup-1.6.2.2.exe) extracts files into the directory where it is executed.
+- Before running `MIRQ-Setup`, place it in `%USERPROFILE%\\AppData\\Local\\MIRQ\\` (or your desired install directory), then run it from there.
 
 ## Support
 

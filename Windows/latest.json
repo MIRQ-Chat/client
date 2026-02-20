@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.6.2.1",
-  "release_date": "2026-02-18T22:50:50.619190",
-  "generated_at": "2026-02-18T22:50:50.619193",
+  "latest_version": "1.6.2.2",
+  "release_date": "2026-02-20T10:23:05.757672",
+  "generated_at": "2026-02-20T10:23:05.757675",
   "changelog": "Client Update available with new features and bug fixes.",
   "download_urls": {
-    "installer": "https://updates.mirq.chat/mirq/win/install/1.6.2.1/MIRQ-Setup-1.6.2.1.exe",
-    "client_package": "https://updates.mirq.chat/mirq/win/install/1.6.2.1/MIRQ-Client-1.6.2.1.7z",
-    "update_package": "https://updates.mirq.chat/mirq/win/updates/1.6.2.1/1.6.2.1content.7z",
-    "version_info": "https://updates.mirq.chat/mirq/win/updates/1.6.2.1/version.json",
-    "update_manifest": "https://updates.mirq.chat/mirq/win/updates/1.6.2.1/Updates.xml"
+    "installer": "https://updates.mirq.chat/mirq/win/install/1.6.2.2/MIRQ-Setup-1.6.2.2.exe",
+    "client_package": "https://updates.mirq.chat/mirq/win/install/1.6.2.2/MIRQ-Client-1.6.2.2.7z",
+    "update_package": "https://updates.mirq.chat/mirq/win/updates/1.6.2.2/1.6.2.2content.7z",
+    "version_info": "https://updates.mirq.chat/mirq/win/updates/1.6.2.2/version.json",
+    "update_manifest": "https://updates.mirq.chat/mirq/win/updates/1.6.2.2/Updates.xml"
   },
   "system_requirements": {
     "os": "Windows 10/11",
@@ -32,7 +32,7 @@
     "migration_required": false
   },
   "metadata": {
-    "build_date": "2026-02-18T22:50:50.619198",
+    "build_date": "2026-02-20T10:23:05.757681",
     "compiler_version": "Visual Studio 2022",
     "qt_version": "Qt6",
     "architecture": "x64",
