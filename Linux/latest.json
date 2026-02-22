@@ -1,13 +1,13 @@
 {
-  "latest_version": "1.6.2.2",
-  "release_date": "2026-02-20T16:07:23Z",
-  "generated_at": "2026-02-20T16:07:23Z",
+  "latest_version": "1.6.2.3",
+  "release_date": "2026-02-22T17:21:58Z",
+  "generated_at": "2026-02-22T17:21:58Z",
   "changelog": "Latest Linux client release.",
   "download_urls": {
-    "linux_deb": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.2-Linux-mirq-client.deb",
-    "linux_rpm": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.2-Linux-mirq-client.rpm",
-    "deb": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.2-Linux-mirq-client.deb",
-    "rpm": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.2-Linux-mirq-client.rpm"
+    "linux_deb": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.3-Linux-mirq-client.deb",
+    "linux_rpm": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.3-Linux-mirq-client.rpm",
+    "deb": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.3-Linux-mirq-client.deb",
+    "rpm": "https://updates.mirq.chat/mirq/linux/mirq-1.6.2.3-Linux-mirq-client.rpm"
   },
   "metadata": {
     "platform": "linux"

@@ -1,85 +1,85 @@
 {
-  "version": "1.6.2.2",
-  "generated_at": "2026-02-20T10:23:04.794542",
+  "version": "1.6.2.3",
+  "generated_at": "2026-02-22T11:29:47.232861",
   "upload_structure": {
     "base_url": "https://updates.mirq.chat/mirq/win/",
-    "install_path": "install/1.6.2.2/",
-    "updates_path": "updates/1.6.2.2/"
+    "install_path": "install/1.6.2.3/",
+    "updates_path": "updates/1.6.2.3/"
   },
   "files": {
     "install": {
-      "MIRQ-Client-1.6.2.2.7z": {
-        "size": 89566267,
-        "modified": "2026-02-20T10:23:03.603487",
+      "MIRQ-Client-1.6.2.3.7z": {
+        "size": 89591682,
+        "modified": "2026-02-22T11:29:46.095155",
         "checksums": {
-          "md5": "c8074e0b55e0365df9bd0ff33e0193db",
-          "sha256": "07308b84e6f5274f2c82d86c4c72658ad0d5a544018c76948d3713bfbe5a2063",
-          "sha1": "8be55f613b34ba36902b15b0024a6676475b6635"
+          "md5": "75c79aa05bc642b32bba74ad8b2448e7",
+          "sha256": "c26e6782262b566d632fcc9a66fd74a741c065b3300098b6aa65d2befd9c9e0e",
+          "sha1": "62a05726f9090a6d1d8bd4e54a5b6ac37e527647"
         }
       },
-      "MIRQ-Client-1.6.2.2.json": {
+      "MIRQ-Client-1.6.2.3.json": {
         "size": 636,
-        "modified": "2026-02-20T10:23:03.713144",
+        "modified": "2026-02-22T11:29:46.199153",
         "checksums": {
-          "md5": "6e0a4e9ed5c0ff440a0fb2fc58f432c7",
-          "sha256": "6ddb5f3071d3526d32c4ebe7a6889e76ea4ef81cd9bc41cca5d66816f6d02589",
-          "sha1": "536a3737ff1078cd324ff9483063c197643ec60a"
+          "md5": "3a440edfcece9616033f308fcbbeaa27",
+          "sha256": "4060bf3126b0d7e2e0d0320d5f026debf97d395e757fc0ed7475ead4fdd90fd3",
+          "sha1": "23314d46f47116c912e8630df3904551f59be682"
         }
       },
-      "MIRQ-Setup-1.6.2.2.exe": {
-        "size": 88190115,
-        "modified": "2026-02-20T10:22:19.701380",
+      "MIRQ-Setup-1.6.2.3.exe": {
+        "size": 88201741,
+        "modified": "2026-02-22T11:29:03.613405",
         "checksums": {
-          "md5": "e775ee163efddb2da94be14217df38b7",
-          "sha256": "9ab0c62ca50febed9b65eacb3b64f3803661761269d9ceffa90bb39ede13affd",
-          "sha1": "c905de1e08cd33b2e721d2e416cd98d3f70691c5"
+          "md5": "2789d6ea2c4b061fa8927d3310e7f983",
+          "sha256": "bc06804d734e39af4888860a4397ef71b1aa49ccb22e2ddf7c0541a346efa881",
+          "sha1": "9707b6fe5f8b7f5774d0a5d7d8ac186e8a5aec66"
         }
       },
       "version.json": {
         "size": 1644,
-        "modified": "2026-02-20T10:23:04.650352",
+        "modified": "2026-02-22T11:29:47.092385",
         "checksums": {
-          "md5": "d17abfe6f2675bf7fa4dcfff777996a5",
-          "sha256": "98bf484accee82b10a92879aaa0d45eafc14e8c7a11ef6bc3425bde865437818",
-          "sha1": "d3d75f86683bdfa0d5bdf992934fe1eaf3907ea7"
+          "md5": "72f97287efe52f41a894bec3a23642ba",
+          "sha256": "f015267b8b56e2bf5434b75b6b2689ceaf0aad0b55ac29ea7c4ea6418ea1b588",
+          "sha1": "cc99f2de0949ae59278049ac59494f0203899acf"
         }
       }
     },
     "updates": {
-      "1.6.2.2content.7z": {
-        "size": 24400569,
-        "modified": "2026-02-20T10:22:35.204498",
+      "1.6.2.3content.7z": {
+        "size": 24400568,
+        "modified": "2026-02-22T11:29:18.794216",
         "checksums": {
-          "md5": "8ceb2868dee2cb7c29d5c6e9d259d90f",
-          "sha256": "3758f14a35c98c612348073d9e17c32a36a0ed8b78d28bf23a4bacce1322933d",
-          "sha1": "630efe7e6bdc37c4d06eafa659b4ac1fd6d6c066"
+          "md5": "92b15153c5ce249ba427d41fa053af09",
+          "sha256": "bf21bb9d65c6a28eccfe6582d67cd510d6c5fa9f405e01f7cf125d8c88f02a36",
+          "sha1": "ae97fbd87db069bea6016a3e03b8d69768c8b788"
         }
       },
-      "1.6.2.2content.json": {
+      "1.6.2.3content.json": {
         "size": 301,
-        "modified": "2026-02-20T10:22:35.243280",
+        "modified": "2026-02-22T11:29:18.833244",
         "checksums": {
-          "md5": "7c7f82c8980f72a85fe864df8d1e7699",
-          "sha256": "588736cce16f2e5fcfc3ff8fa418ca93df50599944eb2d242dbf74124856da4a",
-          "sha1": "ca84a4cfda3006759cc520eb7d4d872203e0be6a"
+          "md5": "408be396d4d362ce8a72ef29586c7154",
+          "sha256": "35730d88f4a9c94d408a9c57ae77041826b3029cefeebbf99f1f621f278b8d6d",
+          "sha1": "8f4fa55dfa4322f3488a8f22b3f23573d34894c6"
         }
       },
       "Updates.xml": {
         "size": 849,
-        "modified": "2026-02-20T10:22:35.379779",
+        "modified": "2026-02-22T11:29:18.972242",
         "checksums": {
-          "md5": "8328647c3fd7167eaed15b38e2dbed65",
-          "sha256": "941cfc5b88f319a55809744f10e3b7f84022cf3e0abc500963e25a94cd77e7f1",
-          "sha1": "6bbd5145ce44a7734dcc66fd4b2e573cfe9c2c53"
+          "md5": "09a94654f23b923affc5974697828c59",
+          "sha256": "c1ce1611458818c539ad748c451b6617e2dbbc78d011478712dd0cbe7fa3867e",
+          "sha1": "d63e00675e03010c017a0ce95baea659ad3f604c"
         }
       },
       "version.json": {
         "size": 1644,
-        "modified": "2026-02-20T10:23:04.650352",
+        "modified": "2026-02-22T11:29:47.092385",
         "checksums": {
-          "md5": "d17abfe6f2675bf7fa4dcfff777996a5",
-          "sha256": "98bf484accee82b10a92879aaa0d45eafc14e8c7a11ef6bc3425bde865437818",
-          "sha1": "d3d75f86683bdfa0d5bdf992934fe1eaf3907ea7"
+          "md5": "72f97287efe52f41a894bec3a23642ba",
+          "sha256": "f015267b8b56e2bf5434b75b6b2689ceaf0aad0b55ac29ea7c4ea6418ea1b588",
+          "sha1": "cc99f2de0949ae59278049ac59494f0203899acf"
         }
       }
     }

@@ -1,0 +1,20 @@
+{
+  "version": "1.6.2.3",
+  "package_type": "client-only",
+  "release_date": "2026-02-22T11:29:46.199581",
+  "package_size": 89591682,
+  "package_md5": "75c79aa05bc642b32bba74ad8b2448e7",
+  "contents": "MIRQ Client with Qt libraries and dependencies (no server components)",
+  "source": "deploy directory",
+  "includes": [
+    "MIRQ.exe - Main MIRQ client",
+    "MIRQUpdater.exe - Client updater",
+    "Qt6 libraries - Runtime dependencies",
+    "Lua scripts - Update/install workflows",
+    "Resources - Icons, fonts, sounds (essential only)"
+  ],
+  "excludes": [
+    "mirq_server.exe",
+    "Server components"
+  ]
+}

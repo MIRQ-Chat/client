@@ -1,0 +1,40 @@
+{
+  "version": "1.6.2.3",
+  "release_date": "2026-02-22T11:29:46.200321",
+  "urls": {
+    "installer": "https://updates.mirq.chat/mirq/win/install/1.6.2.3/MIRQ-Setup-1.6.2.3.exe",
+    "client_package": "https://updates.mirq.chat/mirq/win/install/1.6.2.3/MIRQ-Client-1.6.2.3.7z",
+    "update_package": "https://updates.mirq.chat/mirq/win/updates/1.6.2.3/1.6.2.3content.7z",
+    "update_manifest": "https://updates.mirq.chat/mirq/win/updates/1.6.2.3/Updates.xml"
+  },
+  "sizes": {
+    "installer": 88201741,
+    "client_package": 89591682,
+    "update_package": 24400568
+  },
+  "checksums": {
+    "md5": {
+      "installer": "2789d6ea2c4b061fa8927d3310e7f983",
+      "client_package": "75c79aa05bc642b32bba74ad8b2448e7",
+      "update_package": "92b15153c5ce249ba427d41fa053af09"
+    },
+    "sha256": {
+      "installer": "bc06804d734e39af4888860a4397ef71b1aa49ccb22e2ddf7c0541a346efa881",
+      "client_package": "c26e6782262b566d632fcc9a66fd74a741c065b3300098b6aa65d2befd9c9e0e",
+      "update_package": "bf21bb9d65c6a28eccfe6582d67cd510d6c5fa9f405e01f7cf125d8c88f02a36"
+    },
+    "sha1": {
+      "installer": "9707b6fe5f8b7f5774d0a5d7d8ac186e8a5aec66",
+      "client_package": "62a05726f9090a6d1d8bd4e54a5b6ac37e527647",
+      "update_package": "ae97fbd87db069bea6016a3e03b8d69768c8b788"
+    }
+  },
+  "changelog": "Client Update available with new features and bug fixes.",
+  "system_requirements": {
+    "os": "Windows 10/11",
+    "architecture": "x64",
+    "memory": "4 GB RAM minimum",
+    "disk_space": "200 MB available space",
+    "dependencies": "Included (Qt6, Visual C++ Redistributable)"
+  }
+}
