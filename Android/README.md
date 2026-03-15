@@ -4,4 +4,4 @@ This is the official "Beta" release of the app for Android. DO NOT DOWNLOAD FROM
 
 ## Official Download locations
 - https://mirq.chat/mirq_android.apk
-- This github repository. https://github.com/MIRQ-Chat/client
+- This github repository. https://github.com/MIRQ-Chat/client/blob/main/Android/mirq_android.apk
